@@ -9,3 +9,6 @@ enhance/arc-plugin-enhance
 
 @begin
 appID C0MV86VZ
+
+@aws
+runtime nodejs18.x
