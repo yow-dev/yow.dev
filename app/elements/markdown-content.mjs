@@ -1,5 +1,4 @@
 export default function MarkdownContent({ html, state }) {
-  console.log(JSON.stringify(state))
   const { store } = state
   const { md } = store
   return html`
