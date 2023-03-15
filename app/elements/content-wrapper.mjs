@@ -28,6 +28,6 @@ export default function ContentWrapper({ html }) {
 
         </style>
 
-        <slot></slot>
+        <div class="font-sans"><slot></slot></div>
       `
 }

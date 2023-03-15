@@ -143,8 +143,6 @@ experiencing harassment to feel safe during events and at all times in our onlin
 
 <br />
 
-## REPORT A VIOLATION <br />(with or without your name)
-
 <report-violation></report-violation>
 
 ## LICENSE
