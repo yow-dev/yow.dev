@@ -5,6 +5,9 @@
     "start": "sandbox",
     "lint": "eslint ./app/**/*.mjs --fix"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "devDependencies": {
     "@architect/plugin-lambda-invoker": "^1.0.0",
     "@architect/sandbox": "^5.5.4",
@@ -31,7 +34,6 @@
   "dependencies": {
     "@architect/functions": "^5.4.0",
     "@enhance/arc-plugin-enhance": "^5.0.1",
-    "arcdown": "^2.1.0",
-    "tiny-json-http": "^7.5.0"
+    "arcdown": "^2.1.0"
   }
 }
